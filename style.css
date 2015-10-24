@@ -4,7 +4,11 @@
 p{ line-height: 1em; }
 h1, h2, h3, h4{
 <<<<<<< HEAD
+<<<<<<< HEAD
     color: orange;
+=======
+    color: red;
+>>>>>>> seo
 =======
     color: red;
 >>>>>>> seo
@@ -16,7 +20,11 @@ h1{ font-size: 1.7em; }
 h2{ font-size: 1.5em; }
 a{
 <<<<<<< HEAD
+<<<<<<< HEAD
 	color: black;
+=======
+	color: blue;
+>>>>>>> seo
 =======
 	color: blue;
 >>>>>>> seo
