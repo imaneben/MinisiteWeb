@@ -3,7 +3,11 @@
 */
 p{ line-height: 1em; }
 h1, h2, h3, h4{
+<<<<<<< HEAD
     color: orange;
+=======
+    color: red;
+>>>>>>> seo
 	font-weight: normal;
 	line-height: 1.1em;
 	margin: 0 0 .5em 0;
@@ -11,7 +15,11 @@ h1, h2, h3, h4{
 h1{ font-size: 1.7em; }
 h2{ font-size: 1.5em; }
 a{
+<<<<<<< HEAD
 	color: black;
+=======
+	color: blue;
+>>>>>>> seo
 	text-decoration: none;
 }
 	a:hover,
